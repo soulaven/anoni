@@ -2,5 +2,5 @@ flasgger==0.9.1
 Flask==1.0.2
 gunicorn==19.9.0
 numpy==1.15.3
-spacy==2.0.16
+spacy==3.0.3
 Flask-RESTful==0.3.6
