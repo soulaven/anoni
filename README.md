@@ -72,7 +72,7 @@ Create a virtual environment within the new directory:
 ```
 pip install virtualenv
 virtualenv -p python3 <your_env_name>
-source activate <your_env_name>/bin
+source <your_env_name>/bin/activate
 ```
 
 Install all the dependencies:
